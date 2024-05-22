@@ -1,7 +1,6 @@
 {
   "name": "similar-leetcode",
   "private": true,
-  "homepage": "https://QuinnJack.github.io/similar-leetcode",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -22,7 +21,6 @@
     "lucide-react": "^0.379.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "similar-leetcode": ".",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7"
   },
